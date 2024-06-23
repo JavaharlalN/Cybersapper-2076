@@ -1,0 +1,24 @@
+{
+  "name": "cybersapper",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass src/styles -o src/styles/dist"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaharlalN/Cybersapper-2076.git"
+  },
+  "author": "Javaharlal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaharlalN/Cybersapper-2076/issues"
+  },
+  "homepage": "https://github.com/JavaharlalN/Cybersapper-2076#readme",
+  "description": "",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
